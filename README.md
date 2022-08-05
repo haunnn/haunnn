@@ -4,7 +4,7 @@
 - 🤔 I’m looking for help with ssafy
 
 
-![Haun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryuhaun&show_icons=true&theme=radical)
+![Haun's GitHub stats](https://github-readme-stats.vercel.app/api?username=haunnn&show_icons=true&theme=radical)
 
 
 
