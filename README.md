@@ -3,6 +3,11 @@
 - 🌱 I’m currently learning python
 - 🤔 I’m looking for help with ssafy
 
+
+![Haun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryuhaun&show_icons=true&theme=radical)
+
+
+
 <!--
 **haunnn/haunnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
