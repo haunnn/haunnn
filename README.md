@@ -32,9 +32,12 @@
 <br/>
 <br/>
 
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haunnn&exclude_repo=haunnn.github.io&layout=compact" />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=haunnn&show_icons=true" width="39%" />
-</a>
+<div>
+  <a href="s">
+    <img src="https://github-readme-stats.vercel.app/api?username=haunnn&show_icons=true&layout=compact" height="180px" />
+  </a>
+  <a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haunnn&exclude_repo=haunnn.github.io&layout=compact" height="180px"/>
+  </a>
+</div>
+
